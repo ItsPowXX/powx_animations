@@ -1,5 +1,9 @@
 powx_animations is a Script for Animations on [RageUI] and [ESX]
 
+> Attention <
+
+> Resource not optimizer so first soon I will make more optimized version with more animations
+
 > Important
 
 > You are not allowed to modify the resource name
