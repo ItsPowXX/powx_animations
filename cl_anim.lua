@@ -657,3 +657,5 @@ end
 function startScenario(anim)
 	TaskStartScenarioInPlace(PlayerPedId(), anim, 0, false)
 end
+
+-- By PowX#2629
